@@ -49,7 +49,7 @@ Aplikasi menampilkan informasi dalam tabel, termasuk:
 
 ---
 
-## **🔧 Cara Menggunakan (Updated & Improved)**
+## **🔧 Cara Menggunakan**
 
 1. **Persiapan Daftar Subdomain**
 
